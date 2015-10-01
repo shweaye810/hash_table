@@ -1,5 +1,3 @@
-A
-a
 aa
 aal
 aalii
@@ -17094,8 +17092,6 @@ azygous
 azyme
 azymite
 azymous
-B
-b
 ba
 baa
 baahling
@@ -28164,8 +28160,6 @@ Byzantine
 Byzantinesque
 Byzantinism
 Byzantinize
-C
-c
 ca
 caam
 caama
@@ -48065,8 +48059,6 @@ Czechish
 Czechization
 Czechoslovak
 Czechoslovakian
-D
-d
 da
 daalder
 dab
@@ -58961,8 +58953,6 @@ Dytiscidae
 Dytiscus
 dzeren
 Dzungar
-E
-e
 ea
 each
 eachwhere
@@ -67697,8 +67687,6 @@ eyrir
 ezba
 Ezekiel
 Ezra
-F
-f
 fa
 Faba
 Fabaceae
@@ -74557,8 +74545,6 @@ fuzzy
 fyke
 fylfot
 fyrd
-G
-g
 Ga
 ga
 gab
@@ -81418,8 +81404,6 @@ gyrus
 gyte
 gytling
 gyve
-H
-h
 ha
 haab
 haaf

@@ -8,7 +8,7 @@ using namespace std;
 
 struct Word_Bag {
     string word;
-    long long 
+};
 bool in_dictionary(const string &s)
 {
     return -1;
@@ -29,7 +29,7 @@ int main()
 {
     
     string file_name = "words.txt";
-    ifstream fin.open(file_name.str());
+    ifstream fin(file_name.c_str());
     
     if (fin.fail()) {
         cout << file_name << " doesn't exist.\n";
