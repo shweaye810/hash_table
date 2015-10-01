@@ -1,3 +1,5 @@
+Attention: This project is still in beta mode or draft, it doesn't work 100%.
+
 simply download find_path.cpp and words.txt then compile
 
 Project is to find a path between two word by changing one letter each time,
