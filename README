@@ -1,0 +1,4 @@
+simply download find_path.cpp and words.txt then compile
+
+Project is to find a path between two word by changing one letter each time,
+until it matches with the other word.
