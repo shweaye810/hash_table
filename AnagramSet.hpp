@@ -1,7 +1,7 @@
 #ifndef AnagramSet_H
 #define AnagramSet_H
 
-#include "Node.h"
+#include "Node.hpp"
 #include <string>
 using namespace std;
 
