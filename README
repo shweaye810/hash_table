@@ -1,6 +1,5 @@
-Attention: This project is still in beta mode or draft, it doesn't work 100%.
-
-simply download find_path.cpp and words.txt then compile
+simply download all file then compile with
+g++ -std=c++11 -o find_path.out find_path.cpp 
 
 Project is to find a path between two word by changing one letter each time,
 until it matches with the other word.
