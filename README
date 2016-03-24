@@ -1,5 +1,4 @@
 simply download all file then compile with
-g++ -std=c++11 -o find_path.out find_path.cpp 
+g++ -std=c++11 -o tester.out tester.cpp
 
-Project is to find a path between two word by changing one letter each time,
-until it matches with the other word.
+Project is to find a AnagramSet corresponding to it's hash value and hash table of AnagramSet.
